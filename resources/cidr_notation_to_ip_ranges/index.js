@@ -140,7 +140,8 @@ function cidr2range(cidr){
 
 
 files.forEach(function(file){
-  var content  = require("fs").readFileSync(file.href,{"encoding":"utf8"})
+  var content     = require("fs").readFileSync(file.href,{"encoding":"utf8"})
+     ,actual_rule_number = 1 //some lines (empty/commented are skipped, so can not relay on 'index').
 
      ,out_file = file.dir 
                + "/" 
@@ -174,8 +175,9 @@ files.forEach(function(file){
                                              .trim();            //whitespace cleanup
                          
                           if(rebuilt_line.length < 2){ //lines with no description will use file name and index.
-                            rebuilt_line = file.name + " (#" + String(index+1) + ")";
+                            rebuilt_line = file.name + " (#" + String(actual_rule_number) + ")";
                           }
+                          actual_rule_number=actual_rule_number+1;
                          
                           range = cidr2range( match );
                           rebuilt_line = rebuilt_line + ":" + range.from + "-" + range.to;
@@ -188,5 +190,6 @@ files.forEach(function(file){
 
    content = undefined; //cleanup
    lines   = undefined; //cleanup
+   actual_rule_number   = 1; //cleanup
 });
 
