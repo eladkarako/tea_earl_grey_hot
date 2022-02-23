@@ -1,0 +1,1 @@
+<div align="center"><a href="https://paypal.me/%65%31%61%64%6B%61%72%61%6B%30/%35%55%53%44" title="☕+🍪->💪->⏱️📫"><img src="https://github.com/eladkarako/tea_earl_grey_hot/raw/store/resources/logo.gif" border="0" alt="" /><br/><code>powered&nbsp;by&nbsp;☕︎+🍪︎</code></a></div>
