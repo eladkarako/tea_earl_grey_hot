@@ -10,13 +10,15 @@
 
 /peerblock.conf.bak
 
-/build518.peerblock.conf
+/_build518.peerblock.conf
 
-/build693.peerblock.conf
+/_build693.peerblock.conf
 
 /lists/*.list
 
-/lists/*.p2b
+/lists/permallow.p2b
+
+/lists/permblock.p2b
 
 
 /resources/old
