@@ -1,86 +1,85 @@
 # List distributed by iblocklist.com
-
-SpyEye:109.196.142.18-109.196.142.18
-SpyEye:109.254.79.81-109.254.79.81
-SpyEye:173.201.45.60-173.201.45.60
-SpyEye:174.121.37.226-174.121.37.226
-SpyEye:174.121.37.253-174.121.37.253
-SpyEye:174.127.66.192-174.127.66.192
-SpyEye:178.162.144.207-178.162.144.207
-SpyEye:178.162.174.71-178.162.174.71
-SpyEye:178.63.126.99-178.63.126.99
-SpyEye:178.73.212.15-178.73.212.15
-SpyEye:188.241.116.108-188.241.116.108
-SpyEye:193.104.146.49-193.104.146.49
-SpyEye:193.104.146.55-193.104.146.55
-SpyEye:193.106.173.118-193.106.173.118
-SpyEye:193.106.173.134-193.106.173.134
-SpyEye:193.106.173.151-193.106.173.151
-SpyEye:193.106.173.198-193.106.173.198
-SpyEye:193.106.175.106-193.106.175.106
-SpyEye:193.106.175.142-193.106.175.142
-SpyEye:193.106.175.171-193.106.175.171
-SpyEye:193.107.19.52-193.107.19.52
-SpyEye:193.169.188.3-193.169.188.3
-SpyEye:194.247.12.45-194.247.12.45
-SpyEye:194.28.132.53-194.28.132.53
-SpyEye:195.226.218.135-195.226.218.135
-SpyEye:195.226.220.110-195.226.220.110
-SpyEye:195.234.125.206-195.234.125.206
-SpyEye:195.242.161.99-195.242.161.99
-SpyEye:200.56.243.137-200.56.243.137
-SpyEye:209.16.111.241-209.16.111.241
-SpyEye:212.150.164.203-212.150.164.203
-SpyEye:213.155.29.120-213.155.29.120
-SpyEye:213.155.29.24-213.155.29.24
-SpyEye:216.59.18.218-216.59.18.218
-SpyEye:216.69.156.243-216.69.156.243
-SpyEye:223.25.242.86-223.25.242.86
-SpyEye:38.99.83.111-38.99.83.111
-SpyEye:46.17.100.230-46.17.100.230
-SpyEye:46.17.96.177-46.17.96.177
-SpyEye:46.243.9.169-46.243.9.169
-SpyEye:50.22.104.142-50.22.104.142
-SpyEye:60.199.114.84-60.199.114.84
-SpyEye:62.109.3.105-62.109.3.105
-SpyEye:62.193.233.77-62.193.233.77
-SpyEye:66.7.199.176-66.7.199.176
-SpyEye:69.197.135.91-69.197.135.91
-SpyEye:69.89.31.133-69.89.31.133
-SpyEye:74.54.152.37-74.54.152.37
-SpyEye:74.81.82.189-74.81.82.189
-SpyEye:76.76.107.74-76.76.107.74
-SpyEye:76.76.98.82-76.76.98.82
-SpyEye:77.232.82.24-77.232.82.24
-SpyEye:77.235.60.159-77.235.60.159
-SpyEye:77.235.60.79-77.235.60.79
-SpyEye:77.79.10.93-77.79.10.93
-SpyEye:77.79.4.200-77.79.4.200
-SpyEye:78.159.121.42-78.159.121.42
-SpyEye:80.67.3.110-80.67.3.110
-SpyEye:81.176.236.177-81.176.236.177
-SpyEye:84.16.243.232-84.16.243.232
-SpyEye:89.111.178.50-89.111.178.50
-SpyEye:91.193.194.169-91.193.194.169
-SpyEye:91.195.124.16-91.195.124.16
-SpyEye:91.200.240.7-91.200.240.7
-SpyEye:91.200.241.250-91.200.241.250
-SpyEye:91.200.241.252-91.200.241.252
-SpyEye:91.200.241.253-91.200.241.253
-SpyEye:91.204.48.93-91.204.48.93
-SpyEye:91.211.117.168-91.211.117.168
-SpyEye:91.211.117.40-91.211.117.40
-SpyEye:91.211.119.167-91.211.119.167
-SpyEye:91.213.29.149-91.213.29.149
-SpyEye:91.218.36.167-91.218.36.167
-SpyEye:91.218.36.98-91.218.36.98
-SpyEye:91.220.163.12-91.220.163.12
-SpyEye:91.220.62.112-91.220.62.112
-SpyEye:91.223.82.127-91.223.82.127
-SpyEye:92.241.164.223-92.241.164.223
-SpyEye:92.241.164.67-92.241.164.67
-SpyEye:92.241.174.38-92.241.174.38
-SpyEye:92.241.190.128-92.241.190.128
-SpyEye:92.241.190.252-92.241.190.252
-SpyEye:93.187.203.25-93.187.203.25
-SpyEye:95.188.237.151-95.188.237.151
+spyeye__zvjxsfuvdhoxktpeiokq (#1) SpyEye:109.196.142.18-109.196.142.18
+spyeye__zvjxsfuvdhoxktpeiokq (#2) SpyEye:109.254.79.81-109.254.79.81
+spyeye__zvjxsfuvdhoxktpeiokq (#3) SpyEye:173.201.45.60-173.201.45.60
+spyeye__zvjxsfuvdhoxktpeiokq (#4) SpyEye:174.121.37.226-174.121.37.226
+spyeye__zvjxsfuvdhoxktpeiokq (#5) SpyEye:174.121.37.253-174.121.37.253
+spyeye__zvjxsfuvdhoxktpeiokq (#6) SpyEye:174.127.66.192-174.127.66.192
+spyeye__zvjxsfuvdhoxktpeiokq (#7) SpyEye:178.162.144.207-178.162.144.207
+spyeye__zvjxsfuvdhoxktpeiokq (#8) SpyEye:178.162.174.71-178.162.174.71
+spyeye__zvjxsfuvdhoxktpeiokq (#9) SpyEye:178.63.126.99-178.63.126.99
+spyeye__zvjxsfuvdhoxktpeiokq (#10) SpyEye:178.73.212.15-178.73.212.15
+spyeye__zvjxsfuvdhoxktpeiokq (#11) SpyEye:188.241.116.108-188.241.116.108
+spyeye__zvjxsfuvdhoxktpeiokq (#12) SpyEye:193.104.146.49-193.104.146.49
+spyeye__zvjxsfuvdhoxktpeiokq (#13) SpyEye:193.104.146.55-193.104.146.55
+spyeye__zvjxsfuvdhoxktpeiokq (#14) SpyEye:193.106.173.118-193.106.173.118
+spyeye__zvjxsfuvdhoxktpeiokq (#15) SpyEye:193.106.173.134-193.106.173.134
+spyeye__zvjxsfuvdhoxktpeiokq (#16) SpyEye:193.106.173.151-193.106.173.151
+spyeye__zvjxsfuvdhoxktpeiokq (#17) SpyEye:193.106.173.198-193.106.173.198
+spyeye__zvjxsfuvdhoxktpeiokq (#18) SpyEye:193.106.175.106-193.106.175.106
+spyeye__zvjxsfuvdhoxktpeiokq (#19) SpyEye:193.106.175.142-193.106.175.142
+spyeye__zvjxsfuvdhoxktpeiokq (#20) SpyEye:193.106.175.171-193.106.175.171
+spyeye__zvjxsfuvdhoxktpeiokq (#21) SpyEye:193.107.19.52-193.107.19.52
+spyeye__zvjxsfuvdhoxktpeiokq (#22) SpyEye:193.169.188.3-193.169.188.3
+spyeye__zvjxsfuvdhoxktpeiokq (#23) SpyEye:194.247.12.45-194.247.12.45
+spyeye__zvjxsfuvdhoxktpeiokq (#24) SpyEye:194.28.132.53-194.28.132.53
+spyeye__zvjxsfuvdhoxktpeiokq (#25) SpyEye:195.226.218.135-195.226.218.135
+spyeye__zvjxsfuvdhoxktpeiokq (#26) SpyEye:195.226.220.110-195.226.220.110
+spyeye__zvjxsfuvdhoxktpeiokq (#27) SpyEye:195.234.125.206-195.234.125.206
+spyeye__zvjxsfuvdhoxktpeiokq (#28) SpyEye:195.242.161.99-195.242.161.99
+spyeye__zvjxsfuvdhoxktpeiokq (#29) SpyEye:200.56.243.137-200.56.243.137
+spyeye__zvjxsfuvdhoxktpeiokq (#30) SpyEye:209.16.111.241-209.16.111.241
+spyeye__zvjxsfuvdhoxktpeiokq (#31) SpyEye:212.150.164.203-212.150.164.203
+spyeye__zvjxsfuvdhoxktpeiokq (#32) SpyEye:213.155.29.120-213.155.29.120
+spyeye__zvjxsfuvdhoxktpeiokq (#33) SpyEye:213.155.29.24-213.155.29.24
+spyeye__zvjxsfuvdhoxktpeiokq (#34) SpyEye:216.59.18.218-216.59.18.218
+spyeye__zvjxsfuvdhoxktpeiokq (#35) SpyEye:216.69.156.243-216.69.156.243
+spyeye__zvjxsfuvdhoxktpeiokq (#36) SpyEye:223.25.242.86-223.25.242.86
+spyeye__zvjxsfuvdhoxktpeiokq (#37) SpyEye:38.99.83.111-38.99.83.111
+spyeye__zvjxsfuvdhoxktpeiokq (#38) SpyEye:46.17.100.230-46.17.100.230
+spyeye__zvjxsfuvdhoxktpeiokq (#39) SpyEye:46.17.96.177-46.17.96.177
+spyeye__zvjxsfuvdhoxktpeiokq (#40) SpyEye:46.243.9.169-46.243.9.169
+spyeye__zvjxsfuvdhoxktpeiokq (#41) SpyEye:50.22.104.142-50.22.104.142
+spyeye__zvjxsfuvdhoxktpeiokq (#42) SpyEye:60.199.114.84-60.199.114.84
+spyeye__zvjxsfuvdhoxktpeiokq (#43) SpyEye:62.109.3.105-62.109.3.105
+spyeye__zvjxsfuvdhoxktpeiokq (#44) SpyEye:62.193.233.77-62.193.233.77
+spyeye__zvjxsfuvdhoxktpeiokq (#45) SpyEye:66.7.199.176-66.7.199.176
+spyeye__zvjxsfuvdhoxktpeiokq (#46) SpyEye:69.197.135.91-69.197.135.91
+spyeye__zvjxsfuvdhoxktpeiokq (#47) SpyEye:69.89.31.133-69.89.31.133
+spyeye__zvjxsfuvdhoxktpeiokq (#48) SpyEye:74.54.152.37-74.54.152.37
+spyeye__zvjxsfuvdhoxktpeiokq (#49) SpyEye:74.81.82.189-74.81.82.189
+spyeye__zvjxsfuvdhoxktpeiokq (#50) SpyEye:76.76.107.74-76.76.107.74
+spyeye__zvjxsfuvdhoxktpeiokq (#51) SpyEye:76.76.98.82-76.76.98.82
+spyeye__zvjxsfuvdhoxktpeiokq (#52) SpyEye:77.232.82.24-77.232.82.24
+spyeye__zvjxsfuvdhoxktpeiokq (#53) SpyEye:77.235.60.159-77.235.60.159
+spyeye__zvjxsfuvdhoxktpeiokq (#54) SpyEye:77.235.60.79-77.235.60.79
+spyeye__zvjxsfuvdhoxktpeiokq (#55) SpyEye:77.79.10.93-77.79.10.93
+spyeye__zvjxsfuvdhoxktpeiokq (#56) SpyEye:77.79.4.200-77.79.4.200
+spyeye__zvjxsfuvdhoxktpeiokq (#57) SpyEye:78.159.121.42-78.159.121.42
+spyeye__zvjxsfuvdhoxktpeiokq (#58) SpyEye:80.67.3.110-80.67.3.110
+spyeye__zvjxsfuvdhoxktpeiokq (#59) SpyEye:81.176.236.177-81.176.236.177
+spyeye__zvjxsfuvdhoxktpeiokq (#60) SpyEye:84.16.243.232-84.16.243.232
+spyeye__zvjxsfuvdhoxktpeiokq (#61) SpyEye:89.111.178.50-89.111.178.50
+spyeye__zvjxsfuvdhoxktpeiokq (#62) SpyEye:91.193.194.169-91.193.194.169
+spyeye__zvjxsfuvdhoxktpeiokq (#63) SpyEye:91.195.124.16-91.195.124.16
+spyeye__zvjxsfuvdhoxktpeiokq (#64) SpyEye:91.200.240.7-91.200.240.7
+spyeye__zvjxsfuvdhoxktpeiokq (#65) SpyEye:91.200.241.250-91.200.241.250
+spyeye__zvjxsfuvdhoxktpeiokq (#66) SpyEye:91.200.241.252-91.200.241.252
+spyeye__zvjxsfuvdhoxktpeiokq (#67) SpyEye:91.200.241.253-91.200.241.253
+spyeye__zvjxsfuvdhoxktpeiokq (#68) SpyEye:91.204.48.93-91.204.48.93
+spyeye__zvjxsfuvdhoxktpeiokq (#69) SpyEye:91.211.117.168-91.211.117.168
+spyeye__zvjxsfuvdhoxktpeiokq (#70) SpyEye:91.211.117.40-91.211.117.40
+spyeye__zvjxsfuvdhoxktpeiokq (#71) SpyEye:91.211.119.167-91.211.119.167
+spyeye__zvjxsfuvdhoxktpeiokq (#72) SpyEye:91.213.29.149-91.213.29.149
+spyeye__zvjxsfuvdhoxktpeiokq (#73) SpyEye:91.218.36.167-91.218.36.167
+spyeye__zvjxsfuvdhoxktpeiokq (#74) SpyEye:91.218.36.98-91.218.36.98
+spyeye__zvjxsfuvdhoxktpeiokq (#75) SpyEye:91.220.163.12-91.220.163.12
+spyeye__zvjxsfuvdhoxktpeiokq (#76) SpyEye:91.220.62.112-91.220.62.112
+spyeye__zvjxsfuvdhoxktpeiokq (#77) SpyEye:91.223.82.127-91.223.82.127
+spyeye__zvjxsfuvdhoxktpeiokq (#78) SpyEye:92.241.164.223-92.241.164.223
+spyeye__zvjxsfuvdhoxktpeiokq (#79) SpyEye:92.241.164.67-92.241.164.67
+spyeye__zvjxsfuvdhoxktpeiokq (#80) SpyEye:92.241.174.38-92.241.174.38
+spyeye__zvjxsfuvdhoxktpeiokq (#81) SpyEye:92.241.190.128-92.241.190.128
+spyeye__zvjxsfuvdhoxktpeiokq (#82) SpyEye:92.241.190.252-92.241.190.252
+spyeye__zvjxsfuvdhoxktpeiokq (#83) SpyEye:93.187.203.25-93.187.203.25
+spyeye__zvjxsfuvdhoxktpeiokq (#84) SpyEye:95.188.237.151-95.188.237.151
