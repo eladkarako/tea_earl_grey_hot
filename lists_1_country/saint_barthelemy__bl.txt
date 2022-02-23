@@ -1,0 +1,6 @@
+saint_barthelemy__bl (#1):185.212.72.0-185.212.73.255
+saint_barthelemy__bl (#2):185.212.74.0-185.212.74.255
+saint_barthelemy__bl (#3):185.212.75.0-185.212.75.255
+saint_barthelemy__bl (#4):192.131.134.0-192.131.134.255
+saint_barthelemy__bl (#5):206.83.45.0-206.83.45.255
+saint_barthelemy__bl (#6):206.130.228.0-206.130.228.255

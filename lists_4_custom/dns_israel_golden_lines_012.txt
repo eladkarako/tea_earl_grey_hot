@@ -1,0 +1,8 @@
+dns israel golden lines new 012 primary (pdns.012.net.il or pdns.goldenlines.net.il):212.117.129.3-212.117.129.3
+dns israel golden lines new 012 secondary (sdns.012.net.il or sdns.goldenlines.net.il):212.117.128.6-212.117.128.6
+dns israel golden lines new 012 primary (pdns-1.012.net.il):80.179.53.40-80.179.53.40
+dns israel golden lines new 012 secondary (sdns-1.012.net.il):80.179.53.52-80.179.53.52
+dns israel golden lines new 012 primary (pdns-2.012.net.il):80.179.53.41-80.179.53.41
+dns israel golden lines new 012 secondary (sdns-2.012.net.il):80.179.53.51-80.179.53.51
+dns israel golden lines old 012 primary (ns-pt-vip.012.net.il):80.179.52.100-80.179.52.100
+dns israel golden lines old 012 secondary (ns-med1-vip.012.net.il):80.179.55.100-80.179.55.100

@@ -1,0 +1,8 @@
+dns israel bezeq 014 no netex redirect primary (dns1.bezeqint.net):192.115.106.31-192.115.106.31
+dns israel bezeq 014 no netex redirect secondary (cablep-219-186-12.cablep.bezeqint.net):62.219.186.12-62.219.186.12
+dns israel bezeq 014 with netex redirect service 1 primary (dns237.bezeqint.net):192.117.235.237-192.117.235.237
+dns israel bezeq 014 with netex redirect service 2 primary (dns2.bezeqint.net):192.115.106.35-192.115.106.35
+dns israel bezeq 014 with netex redirect service secondary (dnsdrp.bezeqint.net):62.219.186.7-62.219.186.7
+dns israel bezeq 014 (ns1-old.bezeqint.net):192.115.106.10-192.115.106.10
+dns israel bezeq 014 (ns2-old.bezeqint.net - offline no longer available):192.115.106.11-192.115.106.11
+dns israel bezeq 014 (ns3-old.bezeqint.net):62.219.186.11-62.219.186.11

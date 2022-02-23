@@ -1,0 +1,11 @@
+#https://kb.adguard.com/en/general/dns-providers#adguard-dns  https://web.archive.org/web/20190211011229/https://kb.adguard.com/en/general/dns-providers#adguard-dns  
+adguard dns old default primary:176.103.130.130-176.103.130.130
+adguard dns old default secondary:176.103.130.131-176.103.130.131
+adguard dns old family protection primary:176.103.130.132-176.103.130.132
+adguard dns old family protection secondary:176.103.130.134-176.103.130.134
+adguard dns new default primary:94.140.14.14-94.140.14.14
+adguard dns new default secondary:94.140.15.15-94.140.15.15
+adguard dns new family protection primary:94.140.14.15-94.140.14.15
+adguard dns new family protection secondary:94.140.15.16-94.140.15.16
+adguard dns new non filtering primary:94.140.14.140-94.140.14.140
+adguard dns new non filtering secondary:94.140.14.141-94.140.14.141

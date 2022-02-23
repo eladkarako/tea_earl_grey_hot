@@ -1,0 +1,7 @@
+holy_see_vatican_city_state__va (#1):46.36.200.0-46.36.203.255
+holy_see_vatican_city_state__va (#2):185.17.220.0-185.17.223.255
+holy_see_vatican_city_state__va (#3):185.152.68.0-185.152.71.255
+holy_see_vatican_city_state__va (#4):194.50.92.0-194.50.92.255
+holy_see_vatican_city_state__va (#5):212.77.0.0-212.77.31.255
+holy_see_vatican_city_state__va (#6):193.43.102.0-193.43.103.255
+holy_see_vatican_city_state__va (#7):193.43.128.0-193.43.131.255
