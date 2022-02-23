@@ -1,4 +1,6 @@
-portable peerblock. with local lists.
+<h2>portable peerblock. pre-configured with local lists.</h2>
+
+<img alt="screenshot_local_lists_pre_included" src="resources/screenshot_local_lists_pre_included.png"/><br/>
 
 manual first time installation:
 1. open `/lists/`, rename `_empty.permallow.p2b` to `permallow.p2b`, rename `_empty.permblock.p2b` to `permblock.p2b`.
@@ -14,3 +16,8 @@ manual first time installation:
 
 <hr/>
 
+<img alt="screenshot_conf_1" src="resources/screenshot_conf_1.png"/><br/>
+<img alt="screenshot_conf_2" src="resources/screenshot_conf_2.png"/><br/>
+<img alt="screenshot_list_mod_origin_list_name" src="resources/screenshot_list_mod_origin_list_name.png"/><br/>
+
+<hr/>
